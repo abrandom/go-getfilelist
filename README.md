@@ -24,7 +24,7 @@ When I create applications for using Google Drive, I often retrieve a file list 
 You can install this using `go get` as follows.
 
 ```bash
-$ go get -u github.com/tanaikech/go-getfilelist
+$ go get -u github.com/abrandom/go-getfilelist
 ```
 
 # Method
